@@ -108,7 +108,7 @@ updated version will be published at this URL with a new update date.
 
 ## Contact and Support
 
-For privacy questions or support, open an issue in the Nelio repository:
+For privacy questions or support, email nelioapp.love@gmail.com or open an
+issue in the Nelio repository:
 
-https://github.com/manishbhujel22/Duet/issues
-
+https://github.com/manishbhujel22/nelio-legal/issues

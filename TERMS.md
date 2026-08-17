@@ -59,7 +59,7 @@ special, consequential, or punitive damages arising from use of the app.
 
 ## Contact
 
-For support, privacy questions, or account requests, use the Issues page in
-this repository:
+For support, privacy questions, or account requests, email
+nelioapp.love@gmail.com or use the Issues page in this repository:
 
 https://github.com/manishbhujel22/nelio-legal/issues
